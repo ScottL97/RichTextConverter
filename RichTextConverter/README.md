@@ -5,6 +5,12 @@
 
 ## Usage
 
+Install:
+
+```shell
+dotnet add package RichTextConverter --version 0.0.1
+```
+
 You can use the RichTextConverter with or without custom node(tag) handler:
 
 ```csharp
