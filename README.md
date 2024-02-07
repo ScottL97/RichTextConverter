@@ -1,2 +1,4 @@
-# RichTextConverter
-将 HTML 富文本转换为 Unity TMP 富文本
+# RichTextConverter .NET Core
+
+* RichTextConverter .NET Core, support for converting HTML rich text to Unity TMP rich text.
+* Test using HTML rich text output by wangEditor.
